@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1417295461 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3Ceutec/aDevoirs/Tarea5/Evaluador.cpp
+	"Evaluador.h"
+
+1417293144 /home/turupawn/Projects/Codeblocks/Clases/Progra3Ceutec/aDevoirs/Tarea5/Evaluador.h
+	<iostream>
+	<fstream>
+	<stack>
+	"Lista.h"
+
+1417295689 /home/turupawn/Projects/Codeblocks/Clases/Progra3Ceutec/aDevoirs/Tarea5/Lista.h
+	<iostream>
+	"Nodo.h"
+
+1417295597 /home/turupawn/Projects/Codeblocks/Clases/Progra3Ceutec/aDevoirs/Tarea5/Nodo.h
+	<iostream>
+
+1417293303 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3Ceutec/aDevoirs/Tarea5/Lista.cpp
+	"Lista.h"
+
+1417295710 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3Ceutec/aDevoirs/Tarea5/main.cpp
+	"Lista.h"
+	"Evaluador.h"
+	<fstream>
+	<math.h>
+
+1417292744 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3Ceutec/aDevoirs/Tarea5/Nodo.cpp
+	"Nodo.h"
+
+1417288750 source:c:\users\the sorrow\desktop\progra3tarea5-master\progra3tarea5-master\evaluador.cpp
+	"Evaluador.h"
+
+1417288750 c:\users\the sorrow\desktop\progra3tarea5-master\progra3tarea5-master\evaluador.h
+	<iostream>
+	<fstream>
+	<stack>
+	"Lista.h"
+
+1417885321 c:\users\the sorrow\desktop\progra3tarea5-master\progra3tarea5-master\lista.h
+	<iostream>
+	"Nodo.h"
+
+1417288750 c:\users\the sorrow\desktop\progra3tarea5-master\progra3tarea5-master\nodo.h
+	<iostream>
+
+1417288750 source:c:\users\the sorrow\desktop\progra3tarea5-master\progra3tarea5-master\lista.cpp
+	"Lista.h"
+
+1417288750 source:c:\users\the sorrow\desktop\progra3tarea5-master\progra3tarea5-master\main.cpp
+	"Lista.h"
+	"Evaluador.h"
+	<fstream>
+	<math.h>
+
+1417288750 source:c:\users\the sorrow\desktop\progra3tarea5-master\progra3tarea5-master\nodo.cpp
+	"Nodo.h"
+
